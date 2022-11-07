@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "description": "Desenvolvimento de Site",
+      "price": 5000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-11-06T20:07:55.067Z",
+      "id": 1
+    },
+    {
+      "description": "Almoço",
+      "price": 30,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-11-06T20:08:14.979Z",
+      "id": 2
+    },
+    {
+      "description": "Aluguel de carro",
+      "price": 300,
+      "category": "Serviço",
+      "type": "outcome",
+      "createdAt": "2022-11-06T20:11:00.534Z",
+      "id": 3
+    },
+    {
+      "description": "Jantar",
+      "price": 50,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-11-06T20:11:22.557Z",
+      "id": 4
+    },
+    {
+      "description": "Placa de Vídeo",
+      "price": 700,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-11-06T20:11:49.677Z",
+      "id": 5
+    }
+  ]
+}
